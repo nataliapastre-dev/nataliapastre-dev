@@ -75,10 +75,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
-</div>
-
 
 
 
