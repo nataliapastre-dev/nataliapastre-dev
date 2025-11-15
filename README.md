@@ -39,11 +39,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
   <img width="15" />
-  <!-- Visual Studio Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
 </div>
 
-
+---
 
 <h3 align="center">📬 Vamos nos conectar!</h3>
 
@@ -54,7 +53,7 @@
   <a href="https://www.linkedin.com/in/nataliapastre-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/natipastre" target="_blank">
+  <a href="https://github.com/nataliapastre-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
@@ -64,8 +63,14 @@
 <h3 align="center">⚡ Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natipastre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natipastre&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
 </div>
 
 ---
