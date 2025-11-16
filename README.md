@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
-###
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=435&lines=Oi%2C+meu+nome+%C3%A9+Nat%C3%A1lia!;Sou+Desenvolvedora+Front-End!)](https://git.io/typing-svg)
@@ -62,9 +60,20 @@
 
 <h3 align="center">⚡ Estatísticas do GitHub</h3>
 
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <!-- Estatísticas gerais -->
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <!-- Linguagens mais usadas -->
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&langs_count=7&theme=tokyonight"
+  />
+
 </div>
 
 ---
@@ -72,10 +81,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
 </div>
-
----
-
-
 
 
 
