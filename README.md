@@ -4,9 +4,14 @@
   💻 Desenvolvedora em formação | 📊 Interessada em Dados | 🎨 Apaixonada por Front-End  
 </p>
 
+# 👋 Bem-vinda ao meu GitHub
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+GitHub!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Focada+em+Front-End+e+Visualização+de+Dados;Em+constante+aprendizado+🚀)](https://git.io/typing-svg)
+
+</div>
+
 
 </div>
 
