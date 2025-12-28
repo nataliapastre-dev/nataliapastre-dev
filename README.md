@@ -56,21 +56,7 @@ Tenho experiência anterior na área administrativa, o que me proporcionou habil
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight&hide_rank=true&cache_seconds=1800"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight&cache_seconds=1800"
-/>
-
-</div>
 
 ---
 
