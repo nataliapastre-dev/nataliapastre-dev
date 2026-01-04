@@ -1,18 +1,14 @@
 <h1 align="center">✨ Olá, eu sou a Natália Pastre 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação | 📊 Interessada em Dados | 🎨 Apaixonada por Front-End  
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🌐 Base em Desenvolvimento Front-End e Back-End <br>
+💻 Java, JavaScript e Programação Orientada a Objetos
 </p>
-
-
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+GitHub!🚀)](https://git.io/typing-svg)
-
-
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+GitHub!🚀;Projetos+de+Estudo+e+Aprendizado+Contínuo)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,16 +16,16 @@
 
 ## 💡 Sobre mim
 
-Olá! Me chamo **Natália Baptista Pastre** e sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em transição de carreira para a área de tecnologia.
+Olá! Me chamo **Natália Baptista Pastre** e sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia.
 
-Tenho experiência anterior na área administrativa, o que me proporcionou habilidades importantes como organização, análise, responsabilidade e visão de processos. Hoje, estou direcionando minha carreira para o desenvolvimento de soluções tecnológicas, com foco em **Front-End** e **Visualização de Dados**.
+Possuo mais de **10 anos de experiência na área administrativa**, o que me proporcionou uma base sólida em **organização, análise, visão de processos e resolução de problemas**. Atualmente, estou direcionando minha carreira para o **desenvolvimento de software**, com foco em **Front-End** e **fundamentos de Back-End**, utilizando **Java, JavaScript e Programação Orientada a Objetos**.
 
-💙 Gosto de aprender na prática, criar projetos próprios e evoluir constantemente.  
-🎯 Busco uma oportunidade de **estágio ou posição júnior**, onde eu possa aprender, colaborar e crescer profissionalmente.
+💙 Gosto de aprender na prática, desenvolver projetos próprios e evoluir continuamente.  
+🎯 Busco uma oportunidade de **estágio ou posição júnior em Desenvolvimento de Software**, onde eu possa aprender, colaborar e crescer profissionalmente.
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
@@ -53,16 +49,12 @@ Tenho experiência anterior na área administrativa, o que me proporcionou habil
 
 ## 📌 O que você encontrará aqui
 
-✔ Projetos práticos para aprendizado  
-✔ Exercícios de lógica e programação  
-✔ Projetos em Java  
-✔ Projetos front-end  
+✔ Projetos acadêmicos e pessoais  
+✔ Exercícios de lógica de programação  
+✔ Projetos em **Java** (fundamentos e POO)  
+✔ Projetos **Front-End** (HTML, CSS, JavaScript e React)  
 ✔ Evolução contínua do meu aprendizado  
 ✔ Código organizado e comentado  
-
----
-
-
 
 ---
 
@@ -79,6 +71,9 @@ Tenho experiência anterior na área administrativa, o que me proporcionou habil
 
   <a href="https://github.com/nataliapastre-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
   </a>
 </div>
 
