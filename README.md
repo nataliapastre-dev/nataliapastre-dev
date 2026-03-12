@@ -1,60 +1,117 @@
-<h1 align="center">✨ Olá, eu sou a Natália Pastre 👋</h1>
+<h1 align="center">✨ Olá, eu sou Natália Baptista Pastre 👋</h1>
 
 <p align="center">
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🌐 Base em Desenvolvimento Front-End e Back-End <br>
-💻 Java, JavaScript e Programação Orientada a Objetos
+🚀 Em transição de carreira para Tecnologia <br>
+🌐 Foco em Desenvolvimento Front-End e fundamentos de Back-End
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+GitHub!🚀;Projetos+de+Estudo+e+Aprendizado+Contínuo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&pause=1000\&color=6F42F7\&center=true\&vCenter=true\&width=520\&lines=Bem-vindo\(a\)+ao+meu+GitHub!+🚀;Projetos+de+estudo+e+aprendizado+contínuo;Construindo+minha+carreira+em+Tecnologia)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💡 Sobre mim
+# 💡 Sobre mim
 
-Olá! Me chamo **Natália Baptista Pastre** e sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia.
+Olá! Meu nome é **Natália Baptista Pastre**.
 
-Possuo mais de **10 anos de experiência na área administrativa**, o que me proporcionou uma base sólida em **organização, análise, visão de processos e resolução de problemas**. Atualmente, estou direcionando minha carreira para o **desenvolvimento de software**, com foco em **Front-End** e **fundamentos de Back-End**, utilizando **Java, JavaScript e Programação Orientada a Objetos**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em **transição de carreira para a área de tecnologia**.
 
-💙 Gosto de aprender na prática, desenvolver projetos próprios e evoluir continuamente.  
-🎯 Busco uma oportunidade de **estágio ou posição júnior em Desenvolvimento de Software**, onde eu possa aprender, colaborar e crescer profissionalmente.
+Tenho mais de **10 anos de experiência na área administrativa**, onde desenvolvi habilidades importantes como:
+
+✔ Organização
+✔ Análise de dados e processos
+✔ Resolução de problemas
+✔ Pensamento analítico
+
+Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com foco em:
+
+* 🌐 **Front-End**
+* ⚙️ **Fundamentos de Back-End**
+* 🧠 **Lógica de programação**
+* 📊 **Análise e organização de dados**
+
+🎯 Atualmente busco uma oportunidade de **estágio ou posição júnior em desenvolvimento de software**, onde eu possa **aprender, colaborar e evoluir profissionalmente**.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+
 </div>
 
 ---
 
-## 📌 O que você encontrará aqui
+# 📌 O que você encontrará aqui
 
-✔ Projetos acadêmicos e pessoais  
-✔ Exercícios de lógica de programação  
-✔ Projetos em **Java** (fundamentos e POO)  
-✔ Projetos **Front-End** (HTML, CSS, JavaScript e React)  
-✔ Evolução contínua do meu aprendizado  
-✔ Código organizado e comentado  
+✔ Projetos acadêmicos e pessoais
+✔ Exercícios de **lógica de programação**
+✔ Projetos em **Python e Java**
+✔ Projetos **Front-End** com HTML, CSS e JavaScript
+✔ Projetos de estudo e experimentação
+✔ Evolução contínua da minha jornada em tecnologia
+
+---
+
+# 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nataliapastre-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:natalia.pastre@yahoo.com.br">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+⭐ Obrigada por visitar meu perfil!
 
 ---
 
