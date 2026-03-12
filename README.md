@@ -94,7 +94,7 @@ Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com
 </div>
 
 
-
+---
 
 ⭐ Obrigada por visitar meu perfil!
 
