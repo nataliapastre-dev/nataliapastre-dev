@@ -93,23 +93,8 @@ Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com
 
 </div>
 
----
 
-# 📫 Vamos nos conectar
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nataliapastre-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:natalia.pastre@yahoo.com.br">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ⭐ Obrigada por visitar meu perfil!
 
