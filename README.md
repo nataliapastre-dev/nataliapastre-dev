@@ -1,44 +1,48 @@
 <h1 align="center">✨ Olá, eu sou Natália Baptista Pastre 👋</h1>
 
 <p align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Em transição de carreira para Tecnologia <br>
-🌐 Foco em Desenvolvimento Front-End e fundamentos de Back-End
+💻 Desenvolvedora em formação | Análise e Desenvolvimento de Sistemas <br>
+🚀 Transição de carreira para Tecnologia <br>
+🌐 Foco em Front-End com base em Back-End
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&pause=1000\&color=6F42F7\&center=true\&vCenter=true\&width=520\&lines=Bem-vindo\(a\)+ao+meu+GitHub!+🚀;Projetos+de+estudo+e+aprendizado+contínuo;Construindo+minha+carreira+em+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+GitHub!+🚀;Projetos+reais+e+em+evolução;Construindo+minha+carreira+em+Tecnologia)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 💡 Sobre mim
+## 💡 Sobre mim
 
-Olá! Meu nome é **Natália Baptista Pastre**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em **transição de carreira para a área de tecnologia**.
+Tenho mais de **10 anos de experiência na área administrativa**, com forte atuação em:
+- Análise de dados e processos  
+- Organização e otimização de rotinas  
+- Resolução de problemas  
+- Pensamento analítico  
 
-Tenho mais de **10 anos de experiência na área administrativa**, onde desenvolvi habilidades importantes como:
+Atualmente, estou focada em **Desenvolvimento de Software**, com ênfase em:
 
-✔ Organização
-✔ Análise de dados e processos
-✔ Resolução de problemas
-✔ Pensamento analítico
+- 🌐 **Front-End (React, JavaScript, TypeScript)**
+- ⚙️ **Integração com APIs REST**
+- 🧠 **Lógica de programação e POO**
+- 📊 **Manipulação e organização de dados**
 
-Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com foco em:
+💼 Já desenvolvi projetos como:
+- Conversor de moedas com API em tempo real  
+- Clone da Netflix  
+- Formulários responsivos com validação  
+- Cronômetro em React  
+- Websites institucionais  
 
-* 🌐 **Front-End**
-* ⚙️ **Fundamentos de Back-End**
-* 🧠 **Lógica de programação**
-* 📊 **Análise e organização de dados**
-
-🎯 Atualmente busco uma oportunidade de **estágio ou posição júnior em desenvolvimento de software**, onde eu possa **aprender, colaborar e evoluir profissionalmente**.
+🎯 Busco uma oportunidade como **estagiária ou desenvolvedora júnior**, onde eu possa evoluir tecnicamente e contribuir com soluções reais.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -51,7 +55,13 @@ Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 <img width="15"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+<img width="15"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45"/>
 <img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
@@ -72,18 +82,18 @@ Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com
 
 ---
 
-# 📌 O que você encontrará aqui
+## 📌 O que você encontrará aqui
 
-✔ Projetos acadêmicos e pessoais
-✔ Exercícios de **lógica de programação**
-✔ Projetos em **Python e Java**
-✔ Projetos **Front-End** com HTML, CSS e JavaScript
-✔ Projetos de estudo e experimentação
-✔ Evolução contínua da minha jornada em tecnologia
+✔ Projetos práticos de desenvolvimento web  
+✔ Aplicações com integração de APIs  
+✔ Exercícios de lógica de programação  
+✔ Projetos em **Python e Java**  
+✔ Projetos Front-End com **React, JavaScript e TypeScript**  
+✔ Evolução contínua da minha jornada em tecnologia  
 
 ---
 
-# 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <div align="center">
 
@@ -92,7 +102,6 @@ Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight"/>
 
 </div>
-
 
 ---
 
@@ -115,7 +124,6 @@ Hoje estou direcionando minha carreira para **Desenvolvimento de Software**, com
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
   </a>
 </div>
 
