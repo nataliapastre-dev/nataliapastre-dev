@@ -93,17 +93,6 @@ Atualmente, estou focada em **Desenvolvimento de Software**, com ênfase em:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 ⭐ Obrigada por visitar meu perfil!
 
