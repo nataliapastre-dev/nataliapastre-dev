@@ -18,13 +18,12 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para tecnologia.
 
-Tenho mais de **10 anos de experiência na área administrativa**, com atuação em:
-- Análise de dados e indicadores
-- Otimização de processos
-- Organização e melhoria de rotinas
-- Pensamento analítico e resolução de problemas
+Tenho mais de 10 anos de experiência na área administrativa, com atuação sólida em:
 
-Hoje aplico essa base no desenvolvimento de software.
+Análise de dados e indicadores de desempenho
+Otimização e melhoria de processos
+Organização e estruturação de rotinas operacionais
+Resolução de problemas com foco analítico
 
 ---
 
