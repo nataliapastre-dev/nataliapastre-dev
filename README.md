@@ -75,11 +75,6 @@ Hoje aplico essa base no desenvolvimento de software.
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true" />
-</p>
 
 ## 📈 Evolução
 
