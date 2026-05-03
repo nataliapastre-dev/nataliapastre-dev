@@ -77,14 +77,13 @@ Hoje aplico essa base no desenvolvimento de software.
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight"/>
 
-</div>
-
+</p>
 ---
 
 ## 📈 Evolução
