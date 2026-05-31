@@ -57,27 +57,56 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
 ### 🤖 Agente Python com Ollama
-IA local com memória e chat no terminal usando Python + Ollama.
+Assistente de IA local desenvolvido em Python utilizando Ollama para execução de modelos de linguagem diretamente no computador.
 
-### 🌐 LCN Oxigênio (Cliente real)
-Landing page profissional com layout responsivo e foco em negócios reais.
-
-### 📚 Livraria Capítulo & Cia (Django)
-Sistema completo com busca, filtros, favoritos e banco de dados.
-
-### 📊 Detecção de Anomalias
-Machine Learning para identificação de padrões suspeitos em dados.
-
-### 📈 Analisador de Excel
-Automação de relatórios e análise de dados com Python.
-
-### ☕ Cafena Coffee
-Landing page moderna com design responsivo e UI agradável.
+🔗 Repositório:  
+https://github.com/nataliapastre-dev/agente-python-ollama
 
 ---
+
+### 🌐 LCN Oxigênio (Cliente Real)
+Landing page desenvolvida para uma empresa real, com foco em presença digital, responsividade e experiência do usuário, utilizando HTML, CSS e JavaScript.
+
+🔗 Repositório:  
+https://github.com/nataliapastre-dev/lcn-oxigenio  
+
+
+---
+
+### 📚 Livraria Capítulo & Cia
+Sistema web desenvolvido com Django para gerenciamento e visualização de livros.
+
+🔗 Acesse o projeto:
+https://github.com/nataliapastre-dev/livraria-capitulo-cia
+
+---
+
+### ☕ Cafena Coffee Landing Page
+Landing page moderna para cafeteria fictícia com foco em design e responsividade, desenvolvida com HTML, CSS e JavaScript.
+
+🔗 Acesse o projeto:  
+https://nataliapastre-dev.github.io/cafena-coffee-landing-page/
+
+---
+
+### 🎮 Jogo de Adivinhação em Python
+Projeto desenvolvido em Python com interface gráfica utilizando Tkinter.  
+O objetivo é adivinhar o número secreto gerado aleatoriamente pelo sistema.
+
+🔗 Acesse o projeto:  
+https://github.com/nataliapastre-dev/jogo-adivinhacao-python
+
+---
+
+### 🤖 Assistente Virtual em Python
+Projeto de assistente virtual com interface gráfica desenvolvido em Python utilizando Tkinter.  
+O sistema responde perguntas básicas sobre programação e conceitos iniciais de desenvolvimento.
+
+🔗 Acesse o projeto: 
+https://github.com/nataliapastre-dev/assistente-virtual-python
 
 ## 📬 Conexões
 
