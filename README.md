@@ -30,7 +30,7 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 🎯 **Objetivo:** atuar como estagiária ou desenvolvedora júnior na área de tecnologia, contribuindo com projetos reais e evoluindo continuamente.
 
----
+
 
 ## 🚀 Tecnologias
 
