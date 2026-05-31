@@ -59,12 +59,15 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 ## 📌 Projetos em Destaque
 
+
+---
+
 ### 🎮 Jogo de Pong
 Jogo Pong desenvolvido com HTML, CSS e JavaScript puro, com interface moderna e jogabilidade interativa.
 
 🔗 Acesse o projeto: https://nataliapastre-dev.github.io/pong-game.html/
----
 
+---
 
 ### 📚 Livraria Capítulo & Cia
 Sistema web desenvolvido com Django para gerenciamento e visualização de livros.
