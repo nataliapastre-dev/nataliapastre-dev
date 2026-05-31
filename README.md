@@ -62,19 +62,9 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 ### 🤖 Agente Python com Ollama
 Assistente de IA local desenvolvido em Python utilizando Ollama para execução de modelos de linguagem diretamente no computador.
 
-🔗 Acesse o projeto: 
-https://github.com/nataliapastre-dev/agente-python-ollama
-
+🔗 Acesse o projeto: https://github.com/nataliapastre-dev/agente-python-ollama
 ---
 
-### 🌐 LCN Oxigênio (Cliente Real)
-Landing page desenvolvida para uma empresa real, com foco em presença digital, responsividade e experiência do usuário, utilizando HTML, CSS e JavaScript.
-
-🔗 Acesse o projeto:  
-https://nataliapastre-dev.github.io/Site-Institucional-LCN-Oxigênio/
-
-
----
 
 ### 📚 Livraria Capítulo & Cia
 Sistema web desenvolvido com Django para gerenciamento e visualização de livros.
