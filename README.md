@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 🚀 Em transição de carreira para Tecnologia <br>
-💻 Foco em Desenvolvimento Front-End, Python e Dados
+💻 Foco em Front-End, Python e Análise de Dados
 </p>
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em transição para a área de tecnologia.
 
-Tenho mais de **10 anos de experiência na área administrativa**, com atuação em análise de dados, melhoria de processos, organização e resolução de problemas.
+Tenho mais de **10 anos de experiência na área administrativa**, com forte atuação em análise de dados, organização de processos e resolução de problemas.
 
-Atualmente aplico essa experiência no desenvolvimento de soluções tecnológicas, com foco em:
+Atualmente aplico essa experiência no desenvolvimento de soluções tecnológicas com foco em:
 
 - 🌐 Desenvolvimento Front-End
 - 🐍 Python e automações
@@ -28,7 +28,7 @@ Atualmente aplico essa experiência no desenvolvimento de soluções tecnológic
 - 🤖 Inteligência Artificial
 - ⚙️ Desenvolvimento de aplicações web
 
-🎯 **Objetivo:** atuar como estagiária ou desenvolvedora júnior, contribuindo com projetos reais e evolução contínua.
+🎯 **Objetivo:** atuar como estagiária ou desenvolvedora júnior em tecnologia.
 
 ---
 
@@ -50,12 +50,26 @@ Atualmente aplico essa experiência no desenvolvimento de soluções tecnológic
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
-### 🧰 Ferramentas
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</p>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak de Atividade
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliapastre-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -64,37 +78,37 @@ Atualmente aplico essa experiência no desenvolvimento de soluções tecnológic
 ## 📌 Projetos em Destaque
 
 ### 🎮 Jogo de Pong
-Jogo Pong desenvolvido com HTML, CSS e JavaScript puro, com interface moderna e jogabilidade interativa.
+Jogo Pong desenvolvido com HTML, CSS e JavaScript puro.
 
-🔗 Acesse o projeto: https://nataliapastre-dev.github.io/pong-game.html/
+🔗 https://nataliapastre-dev.github.io/pong-game.html/
 
 ---
 
 ### 📚 Livraria Capítulo & Cia
-Sistema web desenvolvido com Django para gerenciamento e visualização de livros.
+Sistema web desenvolvido com Django.
 
-🔗 Repositório: https://github.com/nataliapastre-dev/livraria-capitulo-cia
+🔗 https://github.com/nataliapastre-dev/livraria-capitulo-cia
 
 ---
 
 ### ☕ Cafena Coffee Landing Page
-Landing page moderna para cafeteria fictícia, desenvolvida com HTML, CSS e JavaScript.
+Landing page moderna para cafeteria fictícia.
 
-🔗 Acesse o projeto: https://nataliapastre-dev.github.io/cafena-coffee-landing-page/
+🔗 https://nataliapastre-dev.github.io/cafena-coffee-landing-page/
 
 ---
 
 ### 🎮 Jogo de Adivinhação em Python
-Projeto em Python com interface gráfica usando Tkinter, onde o objetivo é adivinhar o número secreto gerado pelo sistema.
+Jogo com interface gráfica em Tkinter.
 
-🔗 Repositório: https://github.com/nataliapastre-dev/jogo-adivinhacao-python
+🔗 https://github.com/nataliapastre-dev/jogo-adivinhacao-python
 
 ---
 
 ### 🤖 Assistente Virtual em Python
-Projeto de assistente virtual com interface gráfica em Python utilizando Tkinter.
+Assistente virtual simples com interface gráfica.
 
-🔗 Repositório: https://github.com/nataliapastre-dev/assistente-virtual-python
+🔗 https://github.com/nataliapastre-dev/assistente-virtual-python
 
 ---
 
@@ -112,11 +126,8 @@ Projeto de assistente virtual com interface gráfica em Python utilizando Tkinte
 
 </div>
 
-<a href="https://github.com/natipastre-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer"/>
+</div>
