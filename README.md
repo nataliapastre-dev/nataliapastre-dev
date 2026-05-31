@@ -85,14 +85,47 @@ Busco uma oportunidade de **estágio ou posição júnior** na área de tecnolog
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
-- 🌍 Conversor de moedas com API em tempo real  
-- 🎬 Clone da Netflix (layout responsivo)  
-- 📝 Formulários com validação  
-- ⏱️ Cronômetro em React  
-- 💻 Sites institucionais responsivos  
-- 🧠 Exercícios de lógica em Python e Java  
+### 🤖 Agente Python com Ollama
+Assistente de IA local com memória de sessão e histórico automático.
+
+**Python • Ollama • IA Generativa**
+
+---
+
+### 🌐 LCN Oxigênio
+Landing Page desenvolvida para cliente real, com design responsivo e foco em conversão.
+
+**HTML • CSS • JavaScript**
+
+---
+
+### 📚 Livraria Capítulo & Cia
+Sistema web para gerenciamento de livros com Django.
+
+**Python • Django • SQLite**
+
+---
+
+### 📊 Detecção de Anomalias
+Projeto de Machine Learning para identificar transações suspeitas.
+
+**Python • Pandas • Scikit-Learn**
+
+---
+
+### 📈 Analisador de Dados do Excel
+Automação de relatórios e gráficos a partir de planilhas.
+
+**Python • Pandas • Matplotlib**
+
+---
+
+### ☕ Cafena Coffee
+Landing Page moderna para cafeteria fictícia.
+
+**HTML • CSS • JavaScript**
 
 ---
 
