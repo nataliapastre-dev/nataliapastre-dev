@@ -113,7 +113,7 @@ Assistente virtual simples com interface gráfica.
 <div align="center">
 
 <a href="mailto:natalia.pastre@yahoo.com.br">
-  Email
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nataliapastre-dev/" target="_blank">
