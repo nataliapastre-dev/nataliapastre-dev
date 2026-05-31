@@ -59,6 +59,7 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 </div>
 
+---
 
 ## 📌 Projetos em Destaque
 
