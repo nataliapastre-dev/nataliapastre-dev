@@ -12,24 +12,25 @@
 
 </div>
 
+---
 
 ## 💡 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, em transição de carreira para a área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em transição para a área de tecnologia.
 
-Tenho mais de **10 anos de experiência na área administrativa**, com forte atuação em análise de dados, melhoria de processos, organização e resolução de problemas.
+Tenho mais de **10 anos de experiência na área administrativa**, com atuação em análise de dados, melhoria de processos, organização e resolução de problemas.
 
-Atualmente, estou aplicando essa base analítica no desenvolvimento de soluções em tecnologia, criando projetos com foco em:
+Atualmente aplico essa experiência no desenvolvimento de soluções tecnológicas, com foco em:
 
 - 🌐 Desenvolvimento Front-End
 - 🐍 Python e automações
 - 📊 Análise e visualização de dados
-- 🤖 Inteligência Artificial aplicada
+- 🤖 Inteligência Artificial
 - ⚙️ Desenvolvimento de aplicações web
 
-🎯 **Objetivo:** atuar como estagiária ou desenvolvedora júnior na área de tecnologia, contribuindo com projetos reais e evoluindo continuamente.
+🎯 **Objetivo:** atuar como estagiária ou desenvolvedora júnior, contribuindo com projetos reais e evolução contínua.
 
-
+---
 
 ## 🚀 Tecnologias
 
@@ -58,12 +59,9 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 </div>
 
-
+---
 
 ## 📌 Projetos em Destaque
-
-
-
 
 ### 🎮 Jogo de Pong
 Jogo Pong desenvolvido com HTML, CSS e JavaScript puro, com interface moderna e jogabilidade interativa.
@@ -75,34 +73,30 @@ Jogo Pong desenvolvido com HTML, CSS e JavaScript puro, com interface moderna e 
 ### 📚 Livraria Capítulo & Cia
 Sistema web desenvolvido com Django para gerenciamento e visualização de livros.
 
-🔗 Acesse o projeto:
-https://github.com/nataliapastre-dev/livraria-capitulo-cia
+🔗 Repositório: https://github.com/nataliapastre-dev/livraria-capitulo-cia
 
 ---
 
 ### ☕ Cafena Coffee Landing Page
-Landing page moderna para cafeteria fictícia com foco em design e responsividade, desenvolvida com HTML, CSS e JavaScript.
+Landing page moderna para cafeteria fictícia, desenvolvida com HTML, CSS e JavaScript.
 
-🔗 Acesse o projeto:  
-https://nataliapastre-dev.github.io/cafena-coffee-landing-page/
+🔗 Acesse o projeto: https://nataliapastre-dev.github.io/cafena-coffee-landing-page/
 
 ---
 
 ### 🎮 Jogo de Adivinhação em Python
-Projeto desenvolvido em Python com interface gráfica utilizando Tkinter.  
-O objetivo é adivinhar o número secreto gerado aleatoriamente pelo sistema.
+Projeto em Python com interface gráfica usando Tkinter, onde o objetivo é adivinhar o número secreto gerado pelo sistema.
 
-🔗 Acesse o projeto:  
-https://github.com/nataliapastre-dev/jogo-adivinhacao-python
+🔗 Repositório: https://github.com/nataliapastre-dev/jogo-adivinhacao-python
 
 ---
 
 ### 🤖 Assistente Virtual em Python
-Projeto de assistente virtual com interface gráfica desenvolvido em Python utilizando Tkinter.  
-O sistema responde perguntas básicas sobre programação e conceitos iniciais de desenvolvimento.
+Projeto de assistente virtual com interface gráfica em Python utilizando Tkinter.
 
-🔗 Acesse o projeto:  
-https://github.com/nataliapastre-dev/assistente-virtual-python
+🔗 Repositório: https://github.com/nataliapastre-dev/assistente-virtual-python
+
+---
 
 ## 📬 Conexões
 
@@ -115,6 +109,8 @@ https://github.com/nataliapastre-dev/assistente-virtual-python
 <a href="https://www.linkedin.com/in/nataliapastre-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</div>
 
 <a href="https://github.com/natipastre-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
