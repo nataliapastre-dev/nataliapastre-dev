@@ -70,8 +70,8 @@ https://github.com/nataliapastre-dev/agente-python-ollama
 ### 🌐 LCN Oxigênio (Cliente Real)
 Landing page desenvolvida para uma empresa real, com foco em presença digital, responsividade e experiência do usuário, utilizando HTML, CSS e JavaScript.
 
-🔗 Acesse o projeto: 
-https://github.com/nataliapastre-dev/lcn-oxigenio  
+🔗 Acesse o projeto:  
+https://nataliapastre-dev.github.io/Site-Institucional-LCN-Oxigênio/
 
 
 ---
