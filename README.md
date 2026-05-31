@@ -105,7 +105,7 @@ https://github.com/nataliapastre-dev/jogo-adivinhacao-python
 Projeto de assistente virtual com interface gráfica desenvolvido em Python utilizando Tkinter.  
 O sistema responde perguntas básicas sobre programação e conceitos iniciais de desenvolvimento.
 
-🔗 Acesse o projeto: 
+🔗 Acesse o projeto:  
 https://github.com/nataliapastre-dev/assistente-virtual-python
 
 ## 📬 Conexões
