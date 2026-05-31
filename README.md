@@ -1,9 +1,9 @@
 <h1 align="center">✨ Olá, eu sou Natália Baptista Pastre 👋</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação | Análise e Desenvolvimento de Sistemas <br>
-🚀 Transição de carreira para Tecnologia <br>
-🌐 Foco em Front-End e Full Stack
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🚀 Em transição de carreira para Tecnologia <br>
+🌐 Foco em Desenvolvimento Front-End e Full Stack
 </p>
 
 <div align="center">
@@ -16,24 +16,46 @@
 
 ## 💡 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou em transição de carreira para a área de Tecnologia da Informação.
 
-Tenho mais de 10 anos de experiência na área administrativa, com atuação sólida em:
+Tenho mais de **10 anos de experiência na área administrativa**, período em que desenvolvi habilidades analíticas, organizacionais e de resolução de problemas, atuando com:
 
-Análise de dados e indicadores de desempenho
-Otimização e melhoria de processos
-Organização e estruturação de rotinas operacionais
-Resolução de problemas com foco analítico
+- 📊 Análise de indicadores e acompanhamento de resultados
+- ⚙️ Otimização e melhoria de processos
+- 📋 Organização e estruturação de rotinas operacionais
+- 🔍 Resolução de problemas com foco em eficiência e qualidade
+
+Atualmente, venho ampliando meus conhecimentos por meio da graduação, bootcamps e projetos práticos, com foco em desenvolvimento web e tecnologias modernas.
 
 ---
 
 ## 🎯 Foco atual
 
-- 🌐 Desenvolvimento Front-End moderno
-- ⚙️ Consumo de APIs REST
-- 🧠 Lógica de programação e POO
-- 📊 Manipulação e análise de dados
+- 🌐 Desenvolvimento Front-End
+- ⚛️ React
+- 🧠 Lógica de Programação e Programação Orientada a Objetos (POO)
+- 🐍 Python
+- 🔗 Git e GitHub
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento
 - 🚀 Construção de aplicações web responsivas
+
+---
+
+## 📚 Atualmente estudando
+
+- HTML5 e CSS3
+- JavaScript
+- React
+- Python
+- Git e GitHub
+- Inteligência Artificial
+- Cloud Computing
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de **estágio ou posição júnior** na área de tecnologia, onde eu possa aplicar meus conhecimentos, desenvolver novas habilidades e contribuir para projetos inovadores.
 
 ---
 
