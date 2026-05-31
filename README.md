@@ -59,12 +59,12 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 </div>
 
----
+
 
 ## 📌 Projetos em Destaque
 
 
----
+
 
 ### 🎮 Jogo de Pong
 Jogo Pong desenvolvido com HTML, CSS e JavaScript puro, com interface moderna e jogabilidade interativa.
