@@ -54,13 +54,11 @@ Atualmente aplico essa experiência no desenvolvimento de soluções tecnológic
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
-
-![GitHub](https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true)
-
-</div>
+- 📁 Repositórios: desenvolvimento contínuo de projetos reais
+- 💻 Foco em Front-End, Python e Dados
+- 🚀 Evolução constante através de projetos práticos
 ---
 
 ## 🔥 Streak de Atividade
