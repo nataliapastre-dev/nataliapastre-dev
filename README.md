@@ -34,6 +34,8 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 ## 🚀 Tecnologias
 
+<div align="center">
+
 ### 💻 Front-End
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -55,6 +57,7 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
+</div>
 ---
 
 ## 📌 Projetos em Destaque
