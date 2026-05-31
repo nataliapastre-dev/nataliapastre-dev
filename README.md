@@ -65,7 +65,7 @@ Atualmente aplico essa experiência no desenvolvimento de soluções tecnológic
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliapastre-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=tokyonight" />
 
 </div>
 
