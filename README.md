@@ -59,10 +59,10 @@ Atualmente, estou aplicando essa base analítica no desenvolvimento de soluçõe
 
 ## 📌 Projetos em Destaque
 
-### 🤖 Agente Python com Ollama
-Assistente de IA local desenvolvido em Python utilizando Ollama para execução de modelos de linguagem diretamente no computador.
+### 🎮 Jogo de Pong
+Jogo Pong desenvolvido com HTML, CSS e JavaScript puro, com interface moderna e jogabilidade interativa.
 
-🔗 Acesse o projeto: https://github.com/nataliapastre-dev/agente-python-ollama
+🔗 Acesse o projeto: https://nataliapastre-dev.github.io/pong-game.html/
 ---
 
 
