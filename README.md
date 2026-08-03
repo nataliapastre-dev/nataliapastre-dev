@@ -60,8 +60,16 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=nataliapastre-dev&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliapastre-dev&theme=synthwave" alt="Resumo do Perfil" />
+
+  <img src="https://img.shields.io/badge/Status-Desenvolvendo_Projetos-6F42F7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Código-Clean_Code_%26_Boas_Práticas-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <br><br>
+
+  <!-- Card Nativo do GitHub contendo seu repositório/perfil principal -->
+  <a href="https://github.com/nataliapastre-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave&hide_border=true" onerror="this.style.display='none'" />
+  </a>
+
 </div>
 
 ---
