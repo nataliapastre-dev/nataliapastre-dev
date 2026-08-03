@@ -57,18 +57,13 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Status-Desenvolvendo_Projetos-6F42F7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Código-Clean_Code_%26_Boas_Práticas-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <br><br>
-
-  <!-- Card Nativo do GitHub contendo seu repositório/perfil principal -->
-  <a href="https://github.com/nataliapastre-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave&hide_border=true" onerror="this.style.display='none'" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=synthwave&v=1" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave&v=1" alt="Linguagens mais usadas" />
+</div>
 
 </div>
 
