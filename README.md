@@ -65,7 +65,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
     <img align="center" width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave&locale=pt-br" />
   </a>
 </div>
----
+
 
 ## 📬 Conexões & Redes
 
