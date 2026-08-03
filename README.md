@@ -60,10 +60,11 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave"/>
+  <a href="https://github.com/nataliapastre-dev">
+    <img align="center" width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=synthwave&locale=pt-br" />
+    <img align="center" width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave&locale=pt-br" />
+  </a>
 </div>
-
 ---
 
 ## 📬 Conexões & Redes
