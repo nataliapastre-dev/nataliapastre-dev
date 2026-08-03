@@ -2,30 +2,34 @@
 
 <p align="center">
 💻 Desenvolvedora Front-End | Full Stack Júnior <br>
-🎓 Análise e Desenvolvimento de Sistemas <br>
-🚀 Construindo interfaces modernas e soluções funcionais
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas (Previsão: 12/2026) <br>
+🚀 Transformando processos e construindo experiências digitais modernas
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+GitHub!+🚀;Desenvolvedora+Front-end;React+%7C+JavaScript+%7C+Python+%7C+Java;Evoluindo+um+commit+de+cada+vez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=550&lines=Bem-vindo(a)+ao+meu+GitHub!+🚀;Desenvolvedora+Front-end;React+%7C+JavaScript+%7C+Python+%7C+Java;Negócios+%2B+Tecnologia+=+Soluções+Reais)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💡 Sobre mim
+## 📖 Minha História & Trajetória
 
-Sou **Desenvolvedora Front-End** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. 
+Minha jornada profissional começou no universo dos **negócios e gestão**. Graduada em **Administração** e pós-graduada em **Gestão Empresarial**, passei anos atuando diretamente com controle de processos, análise de dados e otimização de rotinas em ambientes dinâmicos. Essa vivência me ensinou a ter uma visão analítica apurada, entender as reais dores dos clientes e buscar eficiência em tudo o que faço.
 
-Aliada à minha bagagem de mais de 10 anos na área administrativa com foco em análise de dados e otimização de processos, aplico pensamento lógico, resolução de problemas e organização no desenvolvimento de softwares eficientes e intuitivos.
+A paixão por resolver problemas de forma ainda mais escalável me levou à **Tecnologia**. Hoje, unindo minha bagagem sólida de gestão com o desenvolvimento de software, atuo como **Desenvolvedora de Software**, criando soluções web modernas, funcionais e focadas na melhor experiência do usuário.
 
-Atualmente me dedico a criar aplicações web modernas com foco em:
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar constantemente minhas bases teóricas e práticas, combinando código limpo com estratégia de negócios.
 
-- 🌐 **Front-End:** Construção de interfaces dinâmicas e responsivas com React, JavaScript, HTML5 e CSS3
-- ⚙️ **Back-End & Lógica:** Desenvolvimento de rotinas e APIs utilizando Java e Python
-- 📊 **Automação & Dados:** Análise de dados e automação de rotinas com Python e SQL
-- 🤖 **Aprendizado Contínuo:** Boas práticas de código, consumo de APIs e novas tecnologias
+---
+
+## 🎯 No que venho trabalhando:
+
+- 🌐 **Front-End Moderno:** Criação de interfaces dinâmicas, responsivas e intuitivas com React, JavaScript, HTML5 e CSS3.
+- ⚙️ **Lógica & Back-End:** Desenvolvimento de aplicações, regras de negócio e automações utilizando Java e Python.
+- 📊 **Análise de Dados & Banco de Dados:** Modelagem e manipulação de dados utilizando MySQL e Python para insights e automações.
+- 💡 **Visão de Negócios:** Aplicação de conceitos de gestão empresarial na arquitetura e priorização de funcionalidades de software.
 
 ---
 
@@ -33,7 +37,7 @@ Atualmente me dedico a criar aplicações web modernas com foco em:
 
 <div align="center">
 
-### 💻 Front-End
+### 💻 Front-End & Interface
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
@@ -41,7 +45,7 @@ Atualmente me dedico a criar aplicações web modernas com foco em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
 </p>
 
-### ⚙️ Back-End & Banco de Dados
+### ⚙️ Back-End, Dados & Ferramentas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
@@ -62,7 +66,7 @@ Atualmente me dedico a criar aplicações web modernas com foco em:
 
 ---
 
-## 📬 Conexões
+## 📬 Conexões & Redes
 
 <div align="center">
 
