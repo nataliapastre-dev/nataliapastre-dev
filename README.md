@@ -55,19 +55,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
 
 </div>
 
----
 
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nataliapastre-dev&show_icons=true&theme=synthwave" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nataliapastre-dev&layout=compact&theme=synthwave" alt="Linguagens mais usadas" />
-</div>
-
-</div>
-
----
 
 ## 📬 Conexões & Redes
 
