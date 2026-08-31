@@ -1,35 +1,41 @@
 <h1 align="center">✨ Olá, eu sou Natália Baptista Pastre 👋</h1>
 
 <p align="center">
-💻 Desenvolvedora Front-End | Full Stack Júnior <br>
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas (Previsão: 12/2026) <br>
-🚀 Transformando processos e construindo experiências digitais modernas
+💻 Desenvolvedora de Software | Front-End & Full Stack Júnior <br>
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas — conclusão em 12/2026 <br>
+🚀 Tecnologia, negócios e desenvolvimento de soluções que geram impacto
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=550&lines=Bem-vindo(a)+ao+meu+GitHub!+🚀;Desenvolvedora+Front-end;React+%7C+JavaScript+%7C+Python+%7C+Java;Negócios+%2B+Tecnologia+=+Soluções+Reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&pause=1000\&color=6F42F7\&center=true\&vCenter=true\&width=600\&lines=Bem-vindo\(a\)+ao+meu+GitHub!+🚀;Desenvolvedora+de+Software;React+%7C+TypeScript+%7C+JavaScript;Node.js+%7C+Java+%7C+Python;Negócios+%2B+Tecnologia+%3D+Soluções+Reais)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 📖 Minha História & Trajetória
+## 👩‍💻 Sobre mim
 
-Minha jornada profissional começou no universo dos **negócios e gestão**. Graduada em **Administração** e pós-graduada em **Gestão Empresarial**, passei anos atuando diretamente com controle de processos, análise de dados e otimização de rotinas em ambientes dinâmicos. Essa vivência me ensinou a ter uma visão analítica apurada, entender as reais dores dos clientes e buscar eficiência em tudo o que faço.
+Minha trajetória profissional começou no universo de **negócios, gestão e processos**. Sou graduada em **Administração** e pós-graduada em **Gestão Empresarial**, com experiência em ambientes que exigem organização, análise, resolução de problemas e melhoria contínua.
 
-A paixão por resolver problemas de forma ainda mais escalável me levou à **Tecnologia**. Hoje, unindo minha bagagem sólida de gestão com o desenvolvimento de software, atuo como **Desenvolvedora de Software**, criando soluções web modernas, funcionais e focadas na melhor experiência do usuário.
+Essa experiência despertou em mim uma visão muito voltada para entender **necessidades reais e transformar problemas em soluções práticas**.
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar constantemente minhas bases teóricas e práticas, combinando código limpo com estratégia de negócios.
+Foi justamente essa busca por soluções mais escaláveis que me levou à **Tecnologia**.
+
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** e venho construindo minha carreira como **Desenvolvedora de Software**, com foco em desenvolvimento web e interesse crescente também pelo ecossistema **Full Stack**.
+
+Minha experiência em negócios, combinada com desenvolvimento de software, me permite enxergar projetos não apenas pelo código, mas também pela perspectiva de **processos, usuários e regras de negócio**.
 
 ---
 
-## 🎯 No que venho trabalhando:
+## 🎯 Atualmente estou trabalhando com
 
-- 🌐 **Front-End Moderno:** Criação de interfaces dinâmicas, responsivas e intuitivas com React, JavaScript, HTML5 e CSS3.
-- ⚙️ **Lógica & Back-End:** Desenvolvimento de aplicações, regras de negócio e automações utilizando Java e Python.
-- 📊 **Análise de Dados & Banco de Dados:** Modelagem e manipulação de dados utilizando MySQL e Python para insights e automações.
-- 💡 **Visão de Negócios:** Aplicação de conceitos de gestão empresarial na arquitetura e priorização de funcionalidades de software.
+* 🌐 **Desenvolvimento Front-End:** interfaces modernas, responsivas e intuitivas utilizando React, TypeScript, JavaScript, HTML5 e CSS3.
+* ⚙️ **Back-End & APIs:** desenvolvimento de aplicações e regras de negócio utilizando Node.js, Java e Python.
+* 🗄️ **Banco de Dados:** modelagem, consultas e manipulação de dados utilizando MySQL.
+* 🔧 **Versionamento:** Git e GitHub para controle de versão e colaboração em projetos.
+* 📊 **Dados & Automação:** utilização de Python para análise, tratamento de dados e automação de processos.
+* 💡 **Visão de Negócios:** aplicação da experiência em Administração e Gestão para compreender processos, requisitos e necessidades dos usuários.
 
 ---
 
@@ -37,27 +43,88 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
 
 <div align="center">
 
-### 💻 Front-End & Interface
+### 🎨 Front-End
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
 </p>
 
-### ⚙️ Back-End, Dados & Ferramentas
+### ⚙️ Back-End
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+</p>
+
+### 🗄️ Dados & Ferramentas
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
 </p>
 
 </div>
 
+---
 
+## 📚 Atualmente estudando
 
-## 📬 Conexões & Redes
+* ⚛️ React e desenvolvimento de aplicações modernas
+* 🔷 TypeScript
+* 🟢 Node.js e desenvolvimento Back-End
+* ☁️ Conceitos de APIs, cloud e arquitetura de aplicações
+* 🐍 Python
+* ☕ Java e Spring Boot
+* 🗃️ SQL e bancos de dados
+* 🔄 Boas práticas de desenvolvimento e metodologias ágeis
+
+---
+
+## 📌 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado e transição para Tecnologia, explorando:
+
+* Aplicações Web
+* React e TypeScript
+* JavaScript
+* APIs e Back-End
+* Java e Spring Boot
+* Python
+* Banco de Dados
+* Automação de processos
+* Dashboards e análise de dados
+
+Estou constantemente evoluindo meus projetos e adicionando novas soluções ao meu portfólio.
+
+---
+
+## 💼 O que busco
+
+Estou em busca de oportunidades em **Desenvolvimento de Software**, especialmente em posições de **Estágio, Desenvolvedora Júnior ou áreas relacionadas ao desenvolvimento Full Stack**.
+
+Meu objetivo é aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e evoluir continuamente como desenvolvedora.
+
+---
+
+## 🌱 Um pouco além do código
+
+Acredito que bons profissionais de tecnologia precisam entender não apenas **como construir uma solução**, mas principalmente **por que ela precisa existir**.
+
+Minha experiência anterior em Administração e Gestão me ajuda a conectar:
+
+**Negócios + Processos + Tecnologia + Pessoas**
+
+para transformar necessidades reais em soluções digitais.
+
+---
+
+## 📬 Conecte-se comigo
 
 <div align="center">
 
@@ -74,5 +141,9 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** para aprimorar cons
 ---
 
 <div align="center">
+
+### 🚀 Em constante evolução, um projeto de cada vez.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer"/>
+
 </div>
