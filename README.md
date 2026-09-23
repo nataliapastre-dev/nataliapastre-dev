@@ -27,15 +27,14 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** e venho construindo
 Minha experiência em negócios, combinada com desenvolvimento de software, me permite enxergar projetos não apenas pelo código, mas também pela perspectiva de **processos, usuários e regras de negócio**.
 
 ---
+## 🎯 Atualmente trabalhando com
 
-## 🎯 Atualmente estou trabalhando com
-
-* 🌐 **Desenvolvimento Front-End:** interfaces modernas, responsivas e intuitivas utilizando React, TypeScript, JavaScript, HTML5 e CSS3.
-* ⚙️ **Back-End & APIs:** desenvolvimento de aplicações e regras de negócio utilizando Node.js, Java e Python.
-* 🗄️ **Banco de Dados:** modelagem, consultas e manipulação de dados utilizando MySQL.
-* 🔧 **Versionamento:** Git e GitHub para controle de versão e colaboração em projetos.
-* 📊 **Dados & Automação:** utilização de Python para análise, tratamento de dados e automação de processos.
-* 💡 **Visão de Negócios:** aplicação da experiência em Administração e Gestão para compreender processos, requisitos e necessidades dos usuários.
+* 🌐 **Front-End:** desenvolvimento de aplicações modernas e responsivas com React, TypeScript, JavaScript, HTML5, CSS3 e Vite.
+* 📱 **Mobile:** desenvolvimento de aplicações com React Native e Expo, trabalhando navegação, componentes, estado e armazenamento local.
+* ⚙️ **Back-End & APIs:** criação e integração de APIs REST utilizando Node.js, Fastify, Java e Spring Boot.
+* 🗄️ **Banco de Dados:** modelagem e manipulação de dados com SQLite, MySQL e Prisma ORM.
+* 🔧 **Versionamento & Deploy:** Git e GitHub para versionamento, documentação e organização de projetos, além da publicação de aplicações web.
+* 💡 **Negócios & Tecnologia:** aplicação da experiência em Administração e Gestão na compreensão de processos, requisitos e necessidades dos usuários.
 
 ---
 
@@ -51,6 +50,14 @@ Minha experiência em negócios, combinada com desenvolvimento de software, me p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" title="Vite"/>
+</p>
+
+### 📱 Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" title="Expo"/>
 </p>
 
 ### ⚙️ Back-End
@@ -58,13 +65,16 @@ Minha experiência em negócios, combinada com desenvolvimento de software, me p
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
 </p>
 
-### 🗄️ Dados & Ferramentas
+### 🗄️ Banco de Dados & Ferramentas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" title="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
 </p>
@@ -75,32 +85,30 @@ Minha experiência em negócios, combinada com desenvolvimento de software, me p
 
 ## 📚 Atualmente estudando
 
-* ⚛️ React e desenvolvimento de aplicações modernas
-* 🔷 TypeScript
-* 🟢 Node.js e desenvolvimento Back-End
-* ☁️ Conceitos de APIs, cloud e arquitetura de aplicações
-* 🐍 Python
+* ⚛️ React, React Native e TypeScript
+* 📱 Desenvolvimento mobile com Expo
 * ☕ Java e Spring Boot
-* 🗃️ SQL e bancos de dados
-* 🔄 Boas práticas de desenvolvimento e metodologias ágeis
+* 🟢 Node.js e desenvolvimento Back-End
+* 🔗 APIs REST e integração entre Front-End e Back-End
+* 🗃️ SQL, bancos de dados e ORMs
+* ☁️ Deploy, cloud e arquitetura de aplicações
+* 🔄 Boas práticas, Clean Code e organização de projetos
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em destaque
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado e transição para Tecnologia, explorando:
+Meu portfólio reúne projetos **web, mobile e full stack**, desenvolvidos para aplicar na prática os conhecimentos adquiridos durante minha formação.
 
-* Aplicações Web
-* React e TypeScript
-* JavaScript
-* APIs e Back-End
-* Java e Spring Boot
-* Python
-* Banco de Dados
-* Automação de processos
-* Dashboards e análise de dados
+Entre eles:
 
-Estou constantemente evoluindo meus projetos e adicionando novas soluções ao meu portfólio.
+* 👥 **SynerRH** — sistema de gestão de pessoas
+* 📱 **SynerRH Mobile** — versão mobile desenvolvida com React Native e Expo
+* 🚗 **Fleet Management System** — gestão de frotas com React, Java e Spring Boot
+* 🦇 **BatPass Mobile** — gerador de senhas com React Native, Expo e TypeScript
+* 🎬 **Movie Finder** — aplicação para descoberta de filmes com React e integração de API
+
+Cada projeto representa uma etapa da minha evolução em desenvolvimento de software, explorando desde a criação de interfaces até APIs, banco de dados, regras de negócio e deploy.
 
 ---
 
